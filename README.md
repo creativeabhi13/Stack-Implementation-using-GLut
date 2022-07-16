@@ -3,9 +3,10 @@
 The aim of this project is to Perform a “Stack Operation”. The objective of this project is to provide a visual implementation of the functioning of a stack. Users can push and pop elements into the stack, and the result is drawn on the screen using computer graphics. The graphics API that is used are OpenGL libraries and GLUT.
 A stack is a conceptual structure consisting of a set of homogeneous elements and is based on the principle of last in first out (LIFO). It is a commonly used abstract data type with two major operations, namely, push and pop. Push and pop are carried out on the topmost element, which is the item most recently added to the stack. The push operation adds an element to the stack while the pop operation removes an element from the top position. The stack concept is used in programming and memory organization in computers.
 
+#Stack
 A stack is a conceptual structure consisting of a set of homogeneous elements and is based on the principle of last in first out (LIFO). It is a commonly used abstract data type with two major operations, namely push and pop. Push and pop are carried out on the topmost element, which is the item most recently added to the stack. The push operation adds an element to the stack while the pop operation removes an element from the top position. The stack concept is used in programming and memory organization in computers.
 
-Stack Algorithm
+#Stack Algorithm
  int counter=0; counter initialization
  if (key==’p’) 
       Counter++
